@@ -1,0 +1,14 @@
+.avatar-component {
+    display: flex;
+    align-items: center;
+    .user-avatar {
+        object-fit: cover;
+        border-radius: 50%;
+        
+    }
+    .username {
+        margin-left: 14px;
+        font-size: 18px;
+        font-weight: 700;
+    }
+}

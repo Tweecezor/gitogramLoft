@@ -1,0 +1,10 @@
+.topline-actions {
+    display: flex;
+    align-items: center;
+    .btn {
+        margin-right: 25px;
+        &:last-child {
+            margin-right: 0;
+        }
+    }
+}

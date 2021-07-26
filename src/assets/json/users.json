@@ -1,0 +1,52 @@
+[
+    {
+        "id": "0",
+        "avatar": "../../assets/img/png/users/josh.png",
+        "username": "Josh"
+    },
+    {
+        "id": "1",
+        "avatar": "../../assets/img/png/users/andrew.png",
+        "username": "Andrew"
+    },
+    {
+        "id": "2",
+        "avatar": "../../assets/img/png/users/camille.png",
+        "username": "Camille"
+    },
+    {
+        "id": "3",
+        "avatar": "../../assets/img/png/users/marselle.png",
+        "username": "Marselle"
+    },
+    {
+        "id": "4",
+        "avatar": "../../assets/img/png/users/piter.png",
+        "username": "Piter"
+    },
+    {
+        "id": "5",
+        "avatar": "../../assets/img/png/users/can.png",
+        "username": "Can"
+    },
+    {
+        "id": "6",
+        "avatar": "../../assets/img/png/users/iloveanime.png",
+        "username": "Iloveanime"
+    },
+    {
+        "id": "7",
+        "avatar": "../../assets/img/png/users/diself.png",
+        "username": "Diself"
+    },
+    {
+        "id": "8",
+        "avatar": "../../assets/img/png/users/gartor.png",
+        "username": "Gartor"
+    },
+    {
+        "id": "9",
+        "avatar": "../../assets/img/png/users/camilr.png",
+        "username": "Camilr"
+    }
+]
